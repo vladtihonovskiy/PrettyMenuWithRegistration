@@ -1,0 +1,1867 @@
+{
+  "id":"8622",
+  "title":"Мобильные телефоны",
+  "link":"_mobilnie telefoni",
+  "is_select":"0",
+  "text_top":"",
+  "text_bottom":"",
+  "id_to_parse":"150307,150823, 9683, 8994, 8622, 8630, 8639",
+  "meta_title":"Смартфоны и мобильные телефоны купить в Запорожье и Украине - цены в интернет-магазине XCOM.UA ",
+  "meta_description":"Недорогие мобильные телефоны и смартфоны в Запорожье и Украине от интернет-магазина XCOM.UA ✔Цена ✔Кредит ✔Отзывы ✔Видео и фото ✔Кредит ✔Технические характеристики ✔Срочная доставка в любой город",
+  "meta_keywords":"смартфон мобильный телефон магазин",
+  "is_fixed":"0",
+  "is_fixed_pricelist":"0",
+  "is_fixed_store":"0",
+  "disable":"0",
+  "edit_date":"1429167884",
+  "edit_admin":"pashka",
+  "discount":"0",
+  "level":"3",
+  "num_string":"3",
+  "curr_price":"r",
+  "curr_store":"0",
+  "is_empty":"0",
+  "similar_names":"",
+  "stop_names":"",
+  "h_title":"",
+  "text_height":51,
+  "title_meta":"мобильные телефоны",
+  "brand_id":"1926",
+  "brands":[
+    {
+      "value":"ALCATEL",
+      "valuec":"alcatel",
+      "in":"4",
+      "check":0
+    },
+    {
+      "value":"Apple",
+      "valuec":"apple",
+      "in":"20",
+      "check":1
+    },
+    {
+      "value":"Archos",
+      "valuec":"archos",
+      "in":"7",
+      "check":0
+    },
+    {
+      "value":"Assistant",
+      "valuec":"assistant",
+      "in":"10",
+      "check":0
+    },
+    {
+      "value":"Astro",
+      "valuec":"astro",
+      "in":"10",
+      "check":0
+    },
+    {
+      "value":"ASUS",
+      "valuec":"asus",
+      "in":"9",
+      "check":0
+    },
+    {
+      "value":"Bravis",
+      "valuec":"bravis",
+      "in":"19",
+      "check":0
+    },
+    {
+      "value":"Caterpillar",
+      "valuec":"caterpillar",
+      "in":"4",
+      "check":0
+    },
+    {
+      "value":"Coolpad",
+      "valuec":"coolpad",
+      "in":"4",
+      "check":0
+    },
+    {
+      "value":"Doogee",
+      "valuec":"doogee",
+      "in":"3",
+      "check":0
+    },
+    {
+      "value":"Ergo",
+      "valuec":"ergo",
+      "in":"6",
+      "check":0
+    },
+    {
+      "value":"Fly",
+      "valuec":"fly",
+      "in":"22",
+      "check":0
+    },
+    {
+      "value":"Globex",
+      "valuec":"globex",
+      "in":"1",
+      "check":0
+    },
+    {
+      "value":"HTC",
+      "valuec":"htc",
+      "in":"5",
+      "check":0
+    },
+    {
+      "value":"Huawei",
+      "valuec":"huawei",
+      "in":"32",
+      "check":0
+    },
+    {
+      "value":"Impression",
+      "valuec":"impression",
+      "in":"1",
+      "check":0
+    },
+    {
+      "value":"Keneksi",
+      "valuec":"keneksi",
+      "in":"3",
+      "check":0
+    },
+    {
+      "value":"Lenovo",
+      "valuec":"lenovo",
+      "in":"36",
+      "check":0
+    },
+    {
+      "value":"LG",
+      "valuec":"lg",
+      "in":"36",
+      "check":0
+    },
+    {
+      "value":"Motorola",
+      "valuec":"motorola",
+      "in":"16",
+      "check":0
+    },
+    {
+      "value":"Nokia",
+      "valuec":"nokia",
+      "in":"39",
+      "check":0
+    },
+    {
+      "value":"Nomi",
+      "valuec":"nomi",
+      "in":"23",
+      "check":0
+    },
+    {
+      "value":"NOUS",
+      "valuec":"nous",
+      "in":"6",
+      "check":0
+    },
+    {
+      "value":"Philips",
+      "valuec":"philips",
+      "in":"8",
+      "check":0
+    },
+    {
+      "value":"Pixus",
+      "valuec":"pixus",
+      "in":"4",
+      "check":0
+    },
+    {
+      "value":"Prestigio",
+      "valuec":"prestigio",
+      "in":"32",
+      "check":0
+    },
+    {
+      "value":"Samsung",
+      "valuec":"samsung",
+      "in":"63",
+      "check":1
+    },
+    {
+      "value":"Seals",
+      "valuec":"seals",
+      "in":"2",
+      "check":0
+    },
+    {
+      "value":"Sigma",
+      "valuec":"sigma",
+      "in":"38",
+      "check":0
+    },
+    {
+      "value":"Sony",
+      "valuec":"sony",
+      "in":"9",
+      "check":0
+    },
+    {
+      "value":"Sony Ericsson",
+      "valuec":"sony_p_ericsson",
+      "in":"1",
+      "check":0
+    },
+    {
+      "value":"Sony Xperia",
+      "valuec":"sony_p_xperia",
+      "in":"1",
+      "check":0
+    },
+    {
+      "value":"STAR",
+      "valuec":"star",
+      "in":"1",
+      "check":0
+    },
+    {
+      "value":"Surefore",
+      "valuec":"surefore",
+      "in":"1",
+      "check":0
+    },
+    {
+      "value":"TP-Link",
+      "valuec":"tp-link",
+      "in":"7",
+      "check":0
+    },
+    {
+      "value":"Umi",
+      "valuec":"umi",
+      "in":"1",
+      "check":0
+    },
+    {
+      "value":"Viaan",
+      "valuec":"viaan",
+      "in":"2",
+      "check":0
+    },
+    {
+      "value":"Xiaomi",
+      "valuec":"xiaomi",
+      "in":"9",
+      "check":0
+    },
+    {
+      "value":"ZTE",
+      "valuec":"zte",
+      "in":"8",
+      "check":0
+    }
+  ],
+  "price_0":24,
+  "price_1":28399,
+  "filters":{
+    "1908":{
+      "title":"Тип корпуса",
+      "is_numeric":"0",
+      "is_list":"0",
+      "list":[
+        {
+          "value":"классический",
+          "check":0
+        },
+        {
+          "value":"моноблок",
+          "check":0
+        },
+        {
+          "value":"отсутствует",
+          "check":0
+        },
+        {
+          "value":"раскладной",
+          "check":0
+        },
+        {
+          "value":"раскладушка",
+          "check":0
+        },
+        {
+          "value":"ротатор",
+          "check":0
+        },
+        {
+          "value":"с откидной крышкой",
+          "check":0
+        },
+        {
+          "value":"слайдер",
+          "check":0
+        },
+        {
+          "value":"слайдер горизонтальный",
+          "check":0
+        }
+      ]
+    },
+    "1917":{
+      "title":"Тип экрана",
+      "is_numeric":"0",
+      "is_list":"0",
+      "list":[
+        {
+          "value":"Gorilla Glass",
+          "check":0
+        },
+        {
+          "value":"Super Clear TFT",
+          "check":0
+        },
+        {
+          "value":"TFT",
+          "check":0
+        },
+        {
+          "value":"TFT IPS, глянцевый",
+          "check":0
+        },
+        {
+          "value":"монохромный",
+          "check":0
+        },
+        {
+          "value":"сенсорный, емкостной",
+          "check":0
+        },
+        {
+          "value":"цветной",
+          "check":0
+        },
+        {
+          "value":"цветной ,сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной AMOLED",
+          "check":0
+        },
+        {
+          "value":"цветной AMOLED ClearBlack, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной AMOLED, 16.78 млн цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной AMOLED, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной CSTN",
+          "check":0
+        },
+        {
+          "value":"цветной CSTN, 65.54 тыс цветов",
+          "check":0
+        },
+        {
+          "value":"цветной HD Super AMOLED, 16.78 млн цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной HD Super AMOLED, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной IPS",
+          "check":0
+        },
+        {
+          "value":"цветной IPS Pro, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной IPS сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной IPS,",
+          "check":0
+        },
+        {
+          "value":"цветной IPS, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной IPS, , сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной IPS, 16.78 млн цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной IPS, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной IPS,сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной NOVA",
+          "check":0
+        },
+        {
+          "value":"цветной OLED",
+          "check":0
+        },
+        {
+          "value":"цветной PLS, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной S-IPS, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной STN",
+          "check":0
+        },
+        {
+          "value":"цветной STN,",
+          "check":0
+        },
+        {
+          "value":"цветной STN, 65.54 тыс цветов",
+          "check":0
+        },
+        {
+          "value":"цветной Super AMOLED Plus, 16.78 млн цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной Super AMOLED, 16.78 млн цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной Super AMOLED, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной Super IPS+, 16.78 млн цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной Super LCD 2, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной Super LCD 3, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной Super LCD, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной Super LCD2, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной TFT",
+          "check":0
+        },
+        {
+          "value":"цветной TFT,",
+          "check":0
+        },
+        {
+          "value":"цветной TFT, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной TFT, 16.78 млн цветов",
+          "check":0
+        },
+        {
+          "value":"цветной TFT, 16.78 млн цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной TFT, 262.14 тыс цветов",
+          "check":0
+        },
+        {
+          "value":"цветной TFT, 262.14 тыс цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной TFT, 65.54 тыс цветов",
+          "check":0
+        },
+        {
+          "value":"цветной TFT, 65.54 тыс цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной TFT, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной TFT,, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной TFT,сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной TFТ",
+          "check":0
+        },
+        {
+          "value":"цветной True HD IPS Plus, 16.78 млн цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной UFB",
+          "check":0
+        },
+        {
+          "value":"цветной UFB,",
+          "check":0
+        },
+        {
+          "value":"цветной,",
+          "check":0
+        },
+        {
+          "value":"цветной, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной, цветов",
+          "check":0
+        },
+        {
+          "value":"цветной, 16.78 млн цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной, 262.14 тыс цветов",
+          "check":0
+        },
+        {
+          "value":"цветной, 262.14 тыс цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной, 65.54 тыс цветов",
+          "check":0
+        },
+        {
+          "value":"цветной, 65.54 тыс цветов, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной, TFT",
+          "check":0
+        },
+        {
+          "value":"цветной, сенсорный",
+          "check":0
+        },
+        {
+          "value":"цветной,сенсорный",
+          "check":0
+        }
+      ]
+    },
+    "1918":{
+      "title":"Диагональ",
+      "is_numeric":"0",
+      "is_list":"0",
+      "list":[
+        {
+          "value":"1,8",
+          "check":0
+        },
+        {
+          "value":"1.3 дюйма",
+          "check":0
+        },
+        {
+          "value":"1.3",
+          "check":0
+        },
+        {
+          "value":"1.4 дюйм.",
+          "check":0
+        },
+        {
+          "value":"1.4",
+          "check":0
+        },
+        {
+          "value":"1.43 дюйм.",
+          "check":0
+        },
+        {
+          "value":"1.43 дюйма",
+          "check":0
+        },
+        {
+          "value":"1.45 дюйм.",
+          "check":0
+        },
+        {
+          "value":"1.5 дюйма",
+          "check":0
+        },
+        {
+          "value":"1.5",
+          "check":0
+        },
+        {
+          "value":"1.51 дюйма",
+          "check":0
+        },
+        {
+          "value":"1.52 дюйм.",
+          "check":0
+        },
+        {
+          "value":"1.52 дюйма",
+          "check":0
+        },
+        {
+          "value":"1.6 дюйма",
+          "check":0
+        },
+        {
+          "value":"1.67 дюйма",
+          "check":0
+        },
+        {
+          "value":"1.7",
+          "check":0
+        },
+        {
+          "value":"1.77 дюйм.",
+          "check":0
+        },
+        {
+          "value":"1.77 дюйма",
+          "check":0
+        },
+        {
+          "value":"1.8 дюйм.",
+          "check":0
+        },
+        {
+          "value":"1.8 дюйма",
+          "check":0
+        },
+        {
+          "value":"1.8",
+          "check":0
+        },
+        {
+          "value":"1.9 дюйма",
+          "check":0
+        },
+        {
+          "value":"2 дюйм.",
+          "check":0
+        },
+        {
+          "value":"2 дюйма",
+          "check":0
+        },
+        {
+          "value":"2",
+          "check":0
+        },
+        {
+          "value":"2.12 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.13 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.2 дюйм.",
+          "check":0
+        },
+        {
+          "value":"2.2 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.2",
+          "check":0
+        },
+        {
+          "value":"2.22 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.3 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.3",
+          "check":0
+        },
+        {
+          "value":"2.36 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.4 дюйм.",
+          "check":0
+        },
+        {
+          "value":"2.4 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.4",
+          "check":0
+        },
+        {
+          "value":"2.55 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.6 дюйм.",
+          "check":0
+        },
+        {
+          "value":"2.6 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.6",
+          "check":0
+        },
+        {
+          "value":"2.75 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.8 дюйм.",
+          "check":0
+        },
+        {
+          "value":"2.8 дюйма",
+          "check":0
+        },
+        {
+          "value":"2.8",
+          "check":0
+        },
+        {
+          "value":"2.9 дюйма",
+          "check":0
+        },
+        {
+          "value":"3 дюйм.",
+          "check":0
+        },
+        {
+          "value":"3 дюйма",
+          "check":0
+        },
+        {
+          "value":"3",
+          "check":0
+        },
+        {
+          "value":"3.1",
+          "check":0
+        },
+        {
+          "value":"3.14 дюйма",
+          "check":0
+        },
+        {
+          "value":"3.2 дюйм.",
+          "check":0
+        },
+        {
+          "value":"3.2 дюйма",
+          "check":0
+        },
+        {
+          "value":"3.2",
+          "check":0
+        },
+        {
+          "value":"3.27 дюйм.",
+          "check":0
+        },
+        {
+          "value":"3.27",
+          "check":0
+        },
+        {
+          "value":"3.3 дюйма",
+          "check":0
+        },
+        {
+          "value":"3.3",
+          "check":0
+        },
+        {
+          "value":"3.5 дюйм.",
+          "check":0
+        },
+        {
+          "value":"3.5 дюйма",
+          "check":0
+        },
+        {
+          "value":"3.5",
+          "check":0
+        },
+        {
+          "value":"3.6 дюйма",
+          "check":0
+        },
+        {
+          "value":"3.6",
+          "check":0
+        },
+        {
+          "value":"3.7 дюйма",
+          "check":0
+        },
+        {
+          "value":"3.7",
+          "check":0
+        },
+        {
+          "value":"3.8 дюйм.",
+          "check":0
+        },
+        {
+          "value":"3.8",
+          "check":0
+        },
+        {
+          "value":"3.9 дюйма",
+          "check":0
+        },
+        {
+          "value":"4 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4 дюйма",
+          "check":0
+        },
+        {
+          "value":"4",
+          "check":0
+        },
+        {
+          "value":"4,5",
+          "check":0
+        },
+        {
+          "value":"4,7 дюйма",
+          "check":0
+        },
+        {
+          "value":"4.02 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.2",
+          "check":0
+        },
+        {
+          "value":"4.27 дюйма",
+          "check":0
+        },
+        {
+          "value":"4.3",
+          "check":0
+        },
+        {
+          "value":"4.3 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.3 дюйма",
+          "check":0
+        },
+        {
+          "value":"4.3",
+          "check":0
+        },
+        {
+          "value":"4.4 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.5 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.5 дюйма",
+          "check":0
+        },
+        {
+          "value":"4.5",
+          "check":0
+        },
+        {
+          "value":"4.6 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.65 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.65 дюйма",
+          "check":0
+        },
+        {
+          "value":"4.66 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.7 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.7 ″",
+          "check":0
+        },
+        {
+          "value":"4.7",
+          "check":0
+        },
+        {
+          "value":"4.77 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.8 дюйм.",
+          "check":0
+        },
+        {
+          "value":"4.8",
+          "check":0
+        },
+        {
+          "value":"4.9",
+          "check":0
+        },
+        {
+          "value":"4.95 дюйм.",
+          "check":0
+        },
+        {
+          "value":"5 дюйм",
+          "check":0
+        },
+        {
+          "value":"5 дюйм.",
+          "check":0
+        },
+        {
+          "value":"5",
+          "check":0
+        },
+        {
+          "value":"5.01 дюйм.",
+          "check":0
+        },
+        {
+          "value":"5.1 дюйм.",
+          "check":0
+        },
+        {
+          "value":"5.2 дюйм.",
+          "check":0
+        },
+        {
+          "value":"5.2",
+          "check":0
+        },
+        {
+          "value":"5.3 дюйм.",
+          "check":0
+        },
+        {
+          "value":"5.3 дюйма",
+          "check":0
+        },
+        {
+          "value":"5.3",
+          "check":0
+        },
+        {
+          "value":"5.5 дюйм.",
+          "check":0
+        },
+        {
+          "value":"5.5",
+          "check":0
+        },
+        {
+          "value":"5.55 дюйм.",
+          "check":0
+        },
+        {
+          "value":"5.7 дюйм.",
+          "check":0
+        },
+        {
+          "value":"5.7",
+          "check":0
+        },
+        {
+          "value":"5.8 дюйм.",
+          "check":0
+        },
+        {
+          "value":"6 дюйм.",
+          "check":0
+        },
+        {
+          "value":"6.3 дюйм.",
+          "check":0
+        }
+      ]
+    },
+    "2858":{
+      "title":"Количество цветов",
+      "is_numeric":"0",
+      "is_list":"0",
+      "list":[
+        {
+          "value":"1",
+          "check":0
+        },
+        {
+          "value":"16 млн",
+          "check":0
+        },
+        {
+          "value":"16 777216 цветов",
+          "check":0
+        },
+        {
+          "value":"16 миллионов",
+          "check":0
+        },
+        {
+          "value":"16 млн.",
+          "check":0
+        },
+        {
+          "value":"16 млн. цветов",
+          "check":0
+        },
+        {
+          "value":"16,7 млн.",
+          "check":0
+        },
+        {
+          "value":"16.7 млн цветов",
+          "check":0
+        },
+        {
+          "value":"16.78 млн",
+          "check":0
+        },
+        {
+          "value":"16.78 млн цветов",
+          "check":0
+        },
+        {
+          "value":"16.78 млн цветов,",
+          "check":0
+        },
+        {
+          "value":"16.78 млн.",
+          "check":0
+        },
+        {
+          "value":"16млн",
+          "check":0
+        },
+        {
+          "value":"256 тыс.",
+          "check":0
+        },
+        {
+          "value":"256000 цветов",
+          "check":0
+        },
+        {
+          "value":"260 тыс.",
+          "check":0
+        },
+        {
+          "value":"262 тыс",
+          "check":0
+        },
+        {
+          "value":"262 тыс.",
+          "check":0
+        },
+        {
+          "value":"262 тысячи",
+          "check":0
+        },
+        {
+          "value":"262.14 тыс",
+          "check":0
+        },
+        {
+          "value":"262.14 тыс цветов",
+          "check":0
+        },
+        {
+          "value":"262144",
+          "check":0
+        },
+        {
+          "value":"262144 цвета",
+          "check":0
+        },
+        {
+          "value":"480 x 320 пикселов",
+          "check":0
+        },
+        {
+          "value":"65 тыс.",
+          "check":0
+        },
+        {
+          "value":"65.54 ты",
+          "check":0
+        },
+        {
+          "value":"65.54 тыс",
+          "check":0
+        },
+        {
+          "value":"65.54 тыс цветов",
+          "check":0
+        },
+        {
+          "value":"65536 цветов",
+          "check":0
+        },
+        {
+          "value":"AMOLED",
+          "check":0
+        },
+        {
+          "value":"нет данных",
+          "check":0
+        }
+      ]
+    },
+    "2859":{
+      "title":"Сенсорный экран",
+      "is_numeric":"0",
+      "is_list":"0",
+      "list":[
+        {
+          "value":"да",
+          "check":0
+        },
+        {
+          "value":"Емкостный",
+          "check":0
+        },
+        {
+          "value":"емкостный, мультитач",
+          "check":0
+        },
+        {
+          "value":"нет",
+          "check":0
+        }
+      ]
+    }
+  },
+  "items":[
+    {
+      "id":"853617",
+      "title":"Мобильный телефон Samsung SM-J105H (Galaxy J1 Duos mini) Black (SM-J105HZKDSEK)",
+      "description":"2 SIM, моноблок, 4.0', TFT, 800x480, 1.2 GHz, 4 Gb, 5, Android OS, v4.4 (KitKat)",
+      "link":"853617__samsung_smj105h_galaxy_j1_duos_mini_black_smj105hzkdsek",
+      "date":"2017-08-09 11:24:56",
+      "price":"70.29",
+      "pricew":"67.47",
+      "pricem":"70.29",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282015.jpg"
+    },
+    {
+      "id":"853619",
+      "title":"Мобильный телефон Samsung SM-J105H (Galaxy J1 Duos mini) White (SM-J105HZWDSEK)",
+      "description":"2 SIM, моноблок, 4.0', TFT, 800x480, 1.2 GHz, 4 Gb, 5, Android OS, v4.4 (KitKat)",
+      "link":"853619__samsung_smj105h_galaxy_j1_duos_mini_white_smj105hzwdsek",
+      "date":"2017-08-09 11:25:09",
+      "price":"70.29",
+      "pricew":"67.47",
+      "pricem":"70.29",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282021.jpg"
+    },
+    {
+      "id":"853618",
+      "title":"Мобильный телефон Samsung SM-J105H (Galaxy J1 Duos mini) Gold (SM-J105HZDDSEK)",
+      "description":"2 SIM, моноблок, 4.0', TFT, 800x480, 1.2 GHz, 4 Gb, 5, Android OS, v4.4 (KitKat)",
+      "link":"853618__samsung_smj105h_galaxy_j1_duos_mini_gold_smj105hzddsek",
+      "date":"2017-08-09 11:24:41",
+      "price":"70.76",
+      "pricew":"68.17",
+      "pricem":"70.76",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282009.jpg"
+    },
+    {
+      "id":"853756",
+      "title":"Мобильный телефон Samsung SM-J120H/DS (Galaxy J1 2016 Duos) Gold (SM-J120HZDDSEK)",
+      "description":"2 SIM, моноблок, 4.5', Super AMOLED, 800x480, 1.3 GHz, 8 Gb, 5, Android OS, v5.1 (Lollipop)",
+      "link":"853756__samsung_smj120h_ds_galaxy_j1_2016_duos_gold_smj120hzddsek",
+      "date":"2016-04-12 12:13:59",
+      "price":"89.27",
+      "pricew":"86.47",
+      "pricem":"89.27",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"220041.jpg"
+    },
+    {
+      "id":"853757",
+      "title":"Мобильный телефон Samsung SM-J120H/DS (Galaxy J1 2016 Duos) White (SM-J120HZWDSEK)",
+      "description":"2 SIM, моноблок, 4.5', Super AMOLED, 800x480, 1.3 GHz, 8 Gb, 5, Android OS, v5.1 (Lollipop)",
+      "link":"853757__samsung_smj120h_ds_galaxy_j1_2016_duos_white_smj120hzwdsek",
+      "date":"2016-04-12 12:13:59",
+      "price":"89.27",
+      "pricew":"86.47",
+      "pricem":"89.27",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"220046.jpg"
+    },
+    {
+      "id":"853755",
+      "title":"Мобильный телефон Samsung SM-J120H/DS (Galaxy J1 2016 Duos) Black (SM-J120HZKDSEK)",
+      "description":"2 SIM, моноблок, 4.5', Super AMOLED, 800x480, 1.3 GHz, 8 Gb, 5, Android OS, v5.1 (Lollipop)",
+      "link":"853755__samsung_smj120h_ds_galaxy_j1_2016_duos_black_smj120hzkdsek",
+      "date":"2016-04-12 12:13:59",
+      "price":"90.4",
+      "pricew":"87.01",
+      "pricem":"90.4",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"220036.jpg"
+    },
+    {
+      "id":"870866",
+      "title":"Мобильный телефон Samsung SM-G532F (Galaxy J2 Prime Duos) Black (SM-G532FZKDSEK)",
+      "description":"количество SIM-карт - 2 SIM, форм-фактор - моноблок, диагональ экрана - 5.0, тип дисплея - TFT, разрешение экрана - 960x540, процессор - Mediatek MT6737T, частота процессора - 1.4 GHz, оперативная память - 1.5 Gb, встроенная память - 8 Gb, основная камера МР - 8, операционная система - Android OS, v6.0 (Marshmallow)",
+      "link":"870866__samsung_smg532f_galaxy_j2_prime_duos_black_smg532fzkdsek",
+      "date":"2016-11-25 15:48:17",
+      "price":"96.93",
+      "pricew":"93.47",
+      "pricem":"96.93",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"264480.jpg"
+    },
+    {
+      "id":"870867",
+      "title":"Мобильный телефон Samsung SM-G532F (Galaxy J2 Prime Duos) Gold (SM-G532FZDDSEK)",
+      "description":"количество SIM-карт - 2 SIM, форм-фактор - моноблок, диагональ экрана - 5.0 тип дисплея - TFT, разрешение экрана - 960x540, процессор - Mediatek MT6737T, частота процессора - 1.4 GHz, оперативная память - 1.5 Gb, встроенная память - 8 Gb, основная камера МР - 8, операционная система - Android OS, v6.0 (Marshmallow)",
+      "link":"870867__samsung_smg532f_galaxy_j2_prime_duos_gold_smg532fzddsek",
+      "date":"2016-11-25 15:48:17",
+      "price":"96.93",
+      "pricew":"93.47",
+      "pricem":"96.93",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"264490.jpg"
+    },
+    {
+      "id":"857889",
+      "title":"Мобильный телефон Samsung SM-J320H (Galaxy J3 2016 Duos) Gold (SM-J320HZDDSEK)",
+      "description":"2 SIM, моноблок, 5.0', Super AMOLED, HD (1280х720), 1.2 GHz, 8 Gb, 8, Android OS, v5.1 (Lollipop)",
+      "link":"857889__samsung_galaxy_j3_2016_j320h_ds_gold_2_microsim_5_quot",
+      "date":"2016-08-05 15:11:40",
+      "price":103,
+      "pricew":"99.3",
+      "pricem":"102.03",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"234868.jpg"
+    },
+    {
+      "id":"873960",
+      "title":"Мобильный телефон Samsung SM-G570F (Galaxy J5 Prime Duos) Black (SM-G570FZKDSEK)",
+      "description":"2 SIM, моноблок, 5.0', IPS, HD (1280х720), 1.4 GHz, 16 Gb, 13, Android OS, v6.0 (Marshmallow)",
+      "link":"873960__samsung_smg570f_galaxy_j5_prime_duos_black_smg570fzkdsek",
+      "date":"2017-01-23 14:01:03",
+      "price":162,
+      "pricew":"157.61",
+      "pricem":"161.71",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"272196.jpg"
+    },
+    {
+      "id":"857870",
+      "title":"Мобильный телефон Samsung SM-J510H (Galaxy J5 2016 Duos) Black (SM-J510HZKDSEK)",
+      "description":"2 SIM, моноблок, 5.2', Super AMOLED, HD (1280х720), 1.2 GHz, 16 Gb, 13, Android OS, v5.1 (Lollipop)",
+      "link":"857870__samsung_smj510h_galaxy_j5_2016_duos_black_smj510hzkdsek",
+      "date":"2017-07-12 17:09:06",
+      "price":166,
+      "pricew":"161.22",
+      "pricem":"165.35",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"265453.jpg"
+    },
+    {
+      "id":"870870",
+      "title":"Мобильный телефон Samsung SM-J510H (Galaxy J5 2016 Duos) Gold (SM-J510HZDDSEK)",
+      "description":"2 SIM, моноблок, 5.2', Super AMOLED, HD (1280х720), 1.2 GHz, 16 Gb, 13, Android OS, v5.1 (Lollipop)",
+      "link":"870870__samsung_smj510h_galaxy_j5_2016_duos_gold_smj510hzddsek",
+      "date":"2017-07-12 17:09:27",
+      "price":166,
+      "pricew":"161.22",
+      "pricem":"165.35",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"271762.jpg"
+    },
+    {
+      "id":"877860",
+      "title":"Мобильный телефон Samsung SM-J330 (Galaxy J3 2017 Duos) Black (SM-J330FZKDSEK)",
+      "description":"2 SIM, моноблок, 5.0', PLS TFT, HD (1280х720), 1.4 GHz, 16 Gb, microSD (TransFlash), до 256 Gb, 13, Bluetooth, NFC, WI-FI, Android OS, v7.0 (Nougat)",
+      "link":"877860__samsung_smj330_galaxy_j3_2017_duos_black_smj330fzkdsek",
+      "date":"2017-09-19 17:32:11",
+      "price":166,
+      "pricew":"161.22",
+      "pricem":"165.35",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282647.jpg"
+    },
+    {
+      "id":"858017",
+      "title":"Мобильный телефон Samsung SM-J710F (Galaxy J7 2016 Duos) Black (SM-J710FZKUSEK)",
+      "description":"2 SIM, моноблок, 5.5', Super AMOLED, HD (1280х720), 1.6 GHz, 16 Gb, 13, Android OS, v5.1 (Lollipop)",
+      "link":"858017__samsung_smj710f_galaxy_j7_2016_duos_black_smj710fzkusek",
+      "date":"2016-08-09 17:45:12",
+      "price":196,
+      "pricew":"189.27",
+      "pricem":"195.77",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"234505.jpg"
+    },
+    {
+      "id":"858018",
+      "title":"Мобильный телефон Samsung SM-J710F (Galaxy J7 2016 Duos) Gold (SM-J710FZDUSEK)",
+      "description":"2 SIM, моноблок, 5.5', Super AMOLED, HD (1280х720), 1.6 GHz, 16 Gb, 13, Android OS, v5.1 (Lollipop)",
+      "link":"858018__samsung_smj710f_galaxy_j7_2016_duos_gold_smj710fzdusek",
+      "date":"2016-08-09 17:45:12",
+      "price":198,
+      "pricew":"193.46",
+      "pricem":"197.92",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"234509.jpg"
+    },
+    {
+      "id":"858019",
+      "title":"Мобильный телефон Samsung SM-J710F (Galaxy J7 2016 Duos) White (SM-J710FZWUSEK)",
+      "description":"2 SIM, моноблок, 5.5', Super AMOLED, HD (1280х720), 1.6 GHz, 16 Gb, 13, Android OS, v5.1 (Lollipop)",
+      "link":"858019__samsung_smj710f_galaxy_j7_2016_duos_white_smj710fzwusek",
+      "date":"2016-08-09 17:45:12",
+      "price":198,
+      "pricew":"193.46",
+      "pricem":"197.92",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"234515.jpg"
+    },
+    {
+      "id":"877863",
+      "title":"Мобильный телефон Samsung SM-J530F (Galaxy J5 2017 Duos) Black (SM-J530FZKNSEK) 2 SIM, моноблок, 5.2')",
+      "description":"0",
+      "link":"877863__samsung_smj530f_galaxy_j5_2017_duos_black_smj530fzknsek",
+      "date":"2017-09-19 17:50:56",
+      "price":264,
+      "pricew":"257.93",
+      "pricem":"263.04",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282695.jpg"
+    },
+    {
+      "id":"877864",
+      "title":"Мобильный телефон Samsung SM-J530F (Galaxy J5 2017 Duos) Gold (SM-J530FZDNSEK)",
+      "description":"2 SIM, моноблок, 5.2', Super AMOLED, HD (1280х720), 1.6 GHz, 16 Gb, microSD (TransFlash), до 256 Gb, 13, Bluetooth, NFC, WI-FI, Android OS, v7.1 (Nougat)",
+      "link":"877864__samsung_smj530f_galaxy_j5_2017_duos_gold_smj530fzdnsek",
+      "date":"2017-09-19 17:48:47",
+      "price":264,
+      "pricew":"257.93",
+      "pricem":"263.04",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282685.jpg"
+    },
+    {
+      "id":"877865",
+      "title":"Мобильный телефон Samsung SM-J530F (Galaxy J5 2017 Duos) Silver (SM-J530FZSNSEK)",
+      "description":"2 SIM, моноблок, 5.2', Super AMOLED, HD (1280х720), 1.6 GHz, 16 Gb, microSD (TransFlash), до 256 Gb, 13, Bluetooth, NFC, WI-FI, Android OS, v7.1 (Nougat)",
+      "link":"877865__samsung_smj530f_galaxy_j5_2017_duos_silver_smj530fzsnsek",
+      "date":"2017-09-19 17:50:08",
+      "price":264,
+      "pricew":"257.93",
+      "pricem":"263.04",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282689.jpg"
+    },
+    {
+      "id":"877867",
+      "title":"Мобильный телефон Samsung SM-J730F (Galaxy J7 2017 Duos) Black (SM-J730FZKNSEK)",
+      "description":"2 SIM, моноблок, 5.5', Super AMOLED, FullHD (1920х1080), 1.6 GHz, 16 Gb, microSD (TransFlash), до 256 Gb, 13, Bluetooth, NFC, WI-FI, Android OS, v7.1 (Nougat)",
+      "link":"877867__samsung_smj730f_galaxy_j7_2017_duos_black_smj730fzknsek",
+      "date":"2017-09-19 13:36:07",
+      "price":296,
+      "pricew":"290.19",
+      "pricem":"295.61",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282386.jpg"
+    },
+    {
+      "id":"877869",
+      "title":"Мобильный телефон Samsung SM-J730F (Galaxy J7 2017 Duos) Silver (SM-J730FZSNSEK)",
+      "description":"2 SIM, моноблок, 5.5', Super AMOLED, FullHD (1920х1080), 1.6 GHz, 16 Gb, microSD (TransFlash), до 256 Gb, 13, Bluetooth, NFC, WI-FI, Android OS, v7.1 (Nougat)",
+      "link":"877869__samsung_smj730f_galaxy_j7_2017_duos_silver_smj730fzsnsek",
+      "date":"2017-09-19 13:38:11",
+      "price":296,
+      "pricew":"290.19",
+      "pricem":"295.61",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282398.jpg"
+    },
+    {
+      "id":"874597",
+      "title":"Мобильный телефон Samsung SM-A320F (Galaxy A3 Duos 2017) Black (SM-A320FZKDSEK)",
+      "description":"2 SIM, моноблок, 4.7', Super AMOLED, HD (1280х720), 1.6 GHz, 16 Gb, 13, Android OS, v6.0 (Marshmallow)",
+      "link":"874597__samsung_sma320f_galaxy_a3_duos_2017_black_sma320fzkdsek",
+      "date":"2017-01-31 14:46:58",
+      "price":312,
+      "pricew":"306.3",
+      "pricem":"311.89",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"274257.jpg"
+    },
+    {
+      "id":"874598",
+      "title":"Мобильный телефон Samsung SM-A320F (Galaxy A3 Duos 2017) Gold (SM-A320FZDDSEK)",
+      "description":"2 SIM, моноблок, 4.7', Super AMOLED, HD (1280х720), 1.6 GHz, 16 Gb, 13, Android OS, v6.0 (Marshmallow)",
+      "link":"874598__samsung_sma320f_galaxy_a3_duos_2017_gold_sma320fzddsek",
+      "date":"2017-01-31 14:46:58",
+      "price":312,
+      "pricew":"306.3",
+      "pricem":"311.89",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"274266.jpg"
+    },
+    {
+      "id":"875198",
+      "title":"Мобильный телефон Samsung SM-A320F (Galaxy A3 Duos 2017) Pink (SM-A320FZIDSEK)",
+      "description":"2 SIM, моноблок, 4.7', Super AMOLED, HD (1280х720), 1.6 GHz, 16 Gb, 13, Android OS, v6.0 (Marshmallow)",
+      "link":"875198__samsung_sma320f_galaxy_a3_duos_2017_pink_sma320fzidsek",
+      "date":"2017-02-21 14:46:50",
+      "price":312,
+      "pricew":"306.3",
+      "pricem":"311.89",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"1",
+      "is_new":"0",
+      "is_hit":"1",
+      "is_recom":"1",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"276786.jpg"
+    },
+    {
+      "id":"875196",
+      "title":"Мобильный телефон Samsung SM-A520F (Galaxy A5 Duos 2017) Gold (SM-A520FZDDSEK)",
+      "description":"2 SIM, моноблок, 5.2', Super AMOLED, FullHD (1920х1080), 1.9 GHz, 32 Gb, 16, Android OS, v6.0 (Marshmallow)",
+      "link":"875196__samsung_sma520f_galaxy_a5_duos_2017_gold_sma520fzddsek",
+      "date":"2017-02-21 14:46:55",
+      "price":394,
+      "pricew":"386.9",
+      "pricem":"393.28",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"1",
+      "is_new":"0",
+      "is_hit":"1",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"276778.jpg"
+    },
+    {
+      "id":"877852",
+      "title":"Мобильный телефон Samsung SM-A520F (Galaxy A5 Duos 2017) Black (SM-A520FZKDSEK)",
+      "description":"2 SIM, моноблок, 5.2', Super AMOLED, FullHD (1920х1080), 1.9 GHz, 32 Gb, microSD (TransFlash), до 256 Gb, 16, Bluetooth, NFC, WI-FI, Android OS, v6.0 (Marshmallow)",
+      "link":"877852__samsung_sma520f_galaxy_a5_duos_2017_black_sma520fzkdsek",
+      "date":"2017-09-05 14:13:27",
+      "price":394,
+      "pricew":"386.9",
+      "pricem":"393.28",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282702.jpg"
+    },
+    {
+      "id":"877853",
+      "title":"Мобильный телефон Samsung SM-A520F (Galaxy A5 Duos 2017) Blue (SM-A520FZBDSEK)",
+      "description":"2 SIM, моноблок, 5.2', Super AMOLED, FullHD (1920х1080), 1.9 GHz, 32 Gb, microSD (TransFlash), до 256 Gb, 16, Bluetooth, NFC, WI-FI, Android OS, v6.0 (Marshmallow)",
+      "link":"877853__samsung_sma520f_galaxy_a5_duos_2017_blue_sma520fzbdsek",
+      "date":"2017-09-05 14:13:27",
+      "price":394,
+      "pricew":"386.9",
+      "pricem":"393.28",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282708.jpg"
+    },
+    {
+      "id":"877854",
+      "title":"Мобильный телефон Samsung SM-A520F (Galaxy A5 Duos 2017) Pink (SM-A520FZIDSEK)",
+      "description":"2 SIM, моноблок, 5.2', Super AMOLED, FullHD (1920х1080), 1.9 GHz, 32 Gb, microSD (TransFlash), до 256 Gb, 16, Bluetooth, NFC, WI-FI, Android OS, v6.0 (Marshmallow)",
+      "link":"877854__samsung_sma520f_galaxy_a5_duos_2017_pink_sma520fzidsek",
+      "date":"2017-09-05 14:13:27",
+      "price":394,
+      "pricew":"386.9",
+      "pricem":"393.28",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"282714.jpg"
+    },
+    {
+      "id":"875192",
+      "title":"Мобильный телефон Samsung SM-A720F (Galaxy A7 Duos 2017) Gold (SM-A720FZDDSEK)",
+      "description":"2 SIM, моноблок, 5.7', Super AMOLED, FullHD (1920х1080), 1.9 GHz, 32 Gb, 16, Android OS, v6.0 (Marshmallow)",
+      "link":"875192__samsung_sma720f_galaxy_a7_duos_2017_gold_sma720fzddsek",
+      "date":"2017-02-21 13:24:49",
+      "price":426,
+      "pricew":"419.13",
+      "pricem":"425.84",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"3",
+      "is_vip":"0",
+      "is_new":"0",
+      "is_hit":"0",
+      "is_recom":"0",
+      "position":"1",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"276764.jpg"
+    },
+    {
+      "id":"875190",
+      "title":"Мобильный телефон Samsung SM-A720F (Galaxy A7 Duos 2017) Black (SM-A720FZKDSEK)",
+      "description":"2 SIM, моноблок, 5.7', Super AMOLED, FullHD (1920х1080), 1.9 GHz, 32 Gb, 16, Android OS, v6.0 (Marshmallow)",
+      "link":"875190__samsung_sma720f_galaxy_a7_duos_2017_black_sma720fzkdsek",
+      "date":"2017-02-21 14:47:02",
+      "price":426,
+      "pricew":"419.13",
+      "pricem":"425.84",
+      "price_old":null,
+      "pid":"8622",
+      "is_store":"1",
+      "is_vip":"1",
+      "is_new":"0",
+      "is_hit":"1",
+      "is_recom":"1",
+      "position":"999",
+      "action_title":null,
+      "action_link":null,
+      "action_discount":null,
+      "img":"276889.jpg"
+    }
+  ]
+}
